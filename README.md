@@ -102,3 +102,9 @@ MoodTracker helps users:
 - Displayed in real-time alongside mood logging.
 - API responses parsed and stored locally for offline display.
 
+## Video Demonstration
+
+A demonstration of the MoodTracker app in action can be viewed here:  
+[Watch the demo video](https://www.example.com/demo)  
+
+
