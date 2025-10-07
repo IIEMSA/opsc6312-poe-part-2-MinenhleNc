@@ -105,6 +105,6 @@ MoodTracker helps users:
 ## Video Demonstration
 
 A demonstration of the MoodTracker app in action can be viewed here:  
-[Watch the demo video](https://www.example.com/demo)  
+[Watch the demo video](https://youtu.be/bTU-zZaIHnE)  
 
 
